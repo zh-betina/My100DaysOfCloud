@@ -1,22 +1,29 @@
 **Add a cover photo like:**
 ![placeholder image](https://via.placeholder.com/1200x600)
 
-# New post title here
+# Introduction to Azure virtual machines (COM03-AZ100)
 
 ## Introduction
 
-✍️ (Why) Explain in one or two sentences why you choose to do this project or cloud topic for your day's study.
+I decided to work on this particular subject, as I've been recently working with virtual machines and containers a lot. Therefore, some basic knowledge is still there and will allow me to understand the way it works with Azure. Moreover, VMs are the core of the IaaS model. 
 
 ## Prerequisite
 
-✍️ (What) Explain in one or two sentences the base knowledge a reader would need before describing the the details of the cloud service or topic.
+It's important to have basic knowledge about virtualisation and general computer
 
 ## Use Case
 
-- 🖼️ (Show-Me) Create an graphic or diagram that illustrate the use-case of how this knowledge could be applied to real-world project
-- ✍️ (Show-Me) Explain in one or two sentences the use case
 
 ## Cloud Research
+
+Which VM workload option is best to run a network appliance on?
+Is an ARM template is a JSON file?
+What is Azure Backup?
+What are some advantages of using Azure Backup?
+What is availability?
+What is an availability set?
+What is a fault domain?
+What is an update domain?
 
 - ✍️ Document your trial and errors. Share what you tried to learn and understand about the cloud topic or while completing micro-project.
 - 🖼️ Show as many screenshot as possible so others can experience in your cloud research.
