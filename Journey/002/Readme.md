@@ -1,20 +1,17 @@
 **Add a cover photo like:**
 ![placeholder image](https://via.placeholder.com/1200x600)
 
-# New post title here
+# SEC02-AZ100 — Create an Azure Policy
 
 ## Introduction
 
-✍️ (Why) Explain in one or two sentences why you choose to do this project or cloud topic for your day's study.
+I've chosen this topic, as it was one of the topics on the 100 cloud ideas with a difficulty level 100. It's a security related subject, allowing to impose specific rules
+on the resources. 
 
 ## Prerequisite
 
-✍️ (What) Explain in one or two sentences the base knowledge a reader would need before describing the the details of the cloud service or topic.
-
-## Use Case
-
-- 🖼️ (Show-Me) Create an graphic or diagram that illustrate the use-case of how this knowledge could be applied to real-world project
-- ✍️ (Show-Me) Explain in one or two sentences the use case
+Need to know the following:
+* What is Azure Policy ?
 
 ## Cloud Research
 
