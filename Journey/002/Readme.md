@@ -1,26 +1,33 @@
-**Add a cover photo like:**
-![placeholder image](https://via.placeholder.com/1200x600)
+![placeholder image](https://github.com/zh-betina/My100DaysOfCloud/blob/main/Journey/002/azurePolicy.png)
 
 # SEC02-AZ100 — Create an Azure Policy
 
 ## Introduction
 
-I've chosen this topic, as it was one of the topics on the 100 cloud ideas with a difficulty level 100. It's a security related subject, allowing to impose specific rules
-on the resources. 
+I've chosen this topic, as it was one of those from the **100 cloud ideas** with a difficulty level **100**. 
+It's a security related subject. Azure Policy allows to impose specific rules on the resources in order to enforce unified,
+standardized compliance of the resources usage across an organisation. 
 
 ## Prerequisite
 
 Need to know the following:
 * What is Azure Policy ?
+* What does the term scope refer to?
+* How many policy definitions can you have per scope?
+* What is an initiative definition?
 
 ## Cloud Research
 
-- ✍️ Document your trial and errors. Share what you tried to learn and understand about the cloud topic or while completing micro-project.
-- 🖼️ Show as many screenshot as possible so others can experience in your cloud research.
+When I started learning about the Azure Policy, there were some terms or concepts I wasn't fully familiar with.
+Therefore, I had to do some extra research to better understand what I read. It concerned especially two concepts,
+namely: **compliance** and **remediation**. 
+
 
 ## Try yourself
 
-✍️ Add a mini tutorial to encourage the reader to get started learning something new about the cloud.
+### ------------------  TUTORIAL -----------------------------------
+
+### Create a policy assignment to identify non-compliant resources via the Azure portal
 
 ### Step 1 — Summary of Step
 
@@ -40,7 +47,8 @@ Need to know the following:
 
 ## Next Steps
 
-✍️ Describe what you think you think you want to do next.
+Proceeding to another 100 level task.
+[SEC03-AZ100 — Secure development best practices on Azure](https://github.com/100DaysOfCloud/100DaysOfCloudIdeas/blob/master/Projects/SEC/SEC03/SEC03-AZ100.md)
 
 ## Social Proof
 
