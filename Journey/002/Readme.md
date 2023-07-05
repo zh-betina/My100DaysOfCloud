@@ -11,16 +11,32 @@ standardized compliance of the resources usage across an organisation.
 ## Prerequisite
 
 Need to know the following:
-* What is Azure Policy ?
+* What is Azure Policy ? <br>
+<i>It's a defined rule, which allows to determine if certains specific actions defined in that rule, are allowed on given ressources.
+What is important to know, is that Azure policy doesn't check if a user performing a given action is allowed to do so, as it doesn't
+manage user permissions, but rather than that, it verifies the resources properties.</i> <br>
+  
 * What does the term scope refer to?
 * How many policy definitions can you have per scope?
-* What is an initiative definition?
+* What is an initiative definition? <br>
+  <i>It's a group of policy definitions. It allows to group multiple policies into a single bundle and assign it to a scope.</i> <br>
+
+Keywords : compliance, remediation, policy effect, policy definition, built-in policies, 
 
 ## Cloud Research
 
 When I started learning about the Azure Policy, there were some terms or concepts I wasn't fully familiar with.
 Therefore, I had to do some extra research to better understand what I read. It concerned especially two concepts,
-namely: **compliance** and **remediation**. 
+namely: **compliance** and **remediation**.
+
+To get familiar with the subject itself, I went through these materials :
+<br>
+<br>
+[AZ-900 Episode 31 | Azure Policy](https://www.youtube.com/watch?v=9WO4EBgUJXk) <br>
+[AZ-900 Episode 31 - Practice Test](https://marczak.io/az-900/episode-31/practice-test/) <br>
+[What is Azure Policy?](https://learn.microsoft.com/en-us/azure/governance/policy/overview) <br>
+[Tutorial: Create and manage policies to enforce compliance](https://learn.microsoft.com/en-us/azure/governance/policy/tutorials/create-and-manage) <br>
+[Quickstart: Create a policy assignment to identify non-compliant resources](https://learn.microsoft.com/en-us/azure/governance/policy/assign-policy-portal) <br>
 
 
 ## Try yourself
@@ -29,11 +45,11 @@ namely: **compliance** and **remediation**.
 
 ### Create a policy assignment to identify non-compliant resources via the Azure portal
 
-### Step 1 — Summary of Step
+### Step 1 —
 
 ![Screenshot](https://via.placeholder.com/500x300)
 
-### Step 1 — Summary of Step
+### Step 2 — Summary of Step
 
 ![Screenshot](https://via.placeholder.com/500x300)
 
